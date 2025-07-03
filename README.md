@@ -9,7 +9,7 @@
 ## 🌷 About Me
 
 - 💖 I love building soft, feminine web designs
-- 🌐 Currently working on my own Linktree clone
+- 🌐 Currently working on my pachage as a developer
 - 📚 Learning: Firebase, Dart, Flutter, Python
 
 ---
