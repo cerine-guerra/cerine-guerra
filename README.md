@@ -9,7 +9,7 @@
 ## 🌷 About Me
 
 - 💖 I love building soft, feminine web designs
-- 🌐 Currently working on my pachage as a developer
+- 🌐 Currently working on my package as a developer
 - 📚 Learning: Firebase, Dart, Flutter, Python
 
 ---
