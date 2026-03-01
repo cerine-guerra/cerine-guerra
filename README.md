@@ -1,16 +1,15 @@
 # Hey there 🌸 I'm Cerine!
 
-💻 Web & Flutter Developer  
-🎀 Aesthetic lover | Building beautiful digital things  
+💻 software Developer / AI engineer
+🎀 Building intelligent applications and exploring the intersection of AI
 📍 Algeria | Dreaming globally  
 
 ---
 
 ## 🌷 About Me
 
-- 💖 I love building soft, feminine web designs
-- 🌐 Currently working on my package as a developer
-- 📚 Learning: Firebase, Dart, Flutter, Python
+- 💖 I love building solutions for real world issues 
+- 🌐 Currently working on my package a software developer/engineer
 
 ---
 
@@ -25,6 +24,13 @@
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-0F4B8A?style=for-the-badge&logo=seaborn&logoColor=white)
 
 
 
@@ -33,12 +39,13 @@
 ## 🛍 Featured Projects
 
 - [🌸 Luna Linktree](https://github.com/cerine-guerra/linktree) – Soft pink link hub for small businesses
+- 
 
 ---
 
 ## 💡 I'm Currently Working On:
 
-- 🛍️ A mobile-friendly **online shop app** (Flutter + Firebase)
+- A smart IoT water quality monitor powered by AI
 - A womwen only ride uber app ( flutter + firebase)
 
 ---
@@ -46,8 +53,6 @@
 ## 📚 I'm Currently Learning
 
 - 🔹 Dart & Flutter (for cross-platform mobile apps)
-- 🔹 Firebase (Auth, Firestore, and Storage)
-- 🔹 Python (for future AI + backend work)
 - 🔹 Git & GitHub (version control + collaboration)
 - 🔹 AI & machine learning
 
@@ -58,16 +63,9 @@
 - 🌐 Small web projects or mini mobile apps
 - 🎨 UI-focused Flutter apps
 - 🌍 Community-driven or women-led tech projects
-- 🧪 Beginner-friendly open-source contributions
 
 ---
 
-## ✨ Fun Fact About Me
-
-> I used to be the quiet girl with big dreams...  
-> Now I code, create, and express myself unapologetically 💫
-
----
 
 ## 💬 Let’s Connect!
 
