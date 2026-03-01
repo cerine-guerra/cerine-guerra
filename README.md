@@ -38,9 +38,9 @@
 
 ## 🛍 Featured Projects
 
-- [breast-cancer-knn-classifier](https://github.com/cerine-guerra/breast-cancer-knn-classifier)
-- [knn_smart_agriculture_model](https://github.com/cerine-guerra/knn_smart_agriculture_model)
-- [🌸 Luna Linktree](https://github.com/cerine-guerra/linktree) – Soft pink link hub for small businesses
+- [breast-cancer-knn-classifier](https://github.com/cerine-guerra/breast-cancer-knn-classifier) - an efficient AI model to detect the kind of tumer in breast cancer
+- [knn_smart_agriculture_model](https://github.com/cerine-guerra/knn_smart_agriculture_model) - a smart app powered by AI to help farmers
+- [Luna Linktree](https://github.com/cerine-guerra/linktree) – Soft pink link hub for small businesses
 
 ---
 
