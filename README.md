@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/BASED_IN-ALGERIA_🇩🇿-7c3aed?style=flat-square&labelColor=1a0a2e" alt="Location"/>
 </div>
 
-<!--
+
 💻 software Developer / AI engineer
 🎀 Building intelligent applications and exploring the intersection of AI
 📍 Algeria | Dreaming globally  
@@ -100,18 +100,3 @@ _`✦ made with 💗 by Cerine Guerra — Algeria to the world`_
 
 </div>
 
-
-<!--
-**cerine-guerra/cerine-guerra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
