@@ -1,4 +1,24 @@
-# Hey there 🌸 I'm Cerine!
+<div align="center">
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     ANIMATED HEADER BANNER                      -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0a2e,50:3d1f6e,100:f5c842&height=220&section=header&text=Cerine%20Guerra&fontSize=58&fontAlignY=38&animation=twinkling&fontColor=f5c842&desc=Software%20Developer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Builder%20of%20Real-World%20Solutions&descAlignY=60&descSize=16&descAlign=50" alt="Header" />
+<!-- TYPING SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=16&duration=3500&pause=1200&color=f5c842&center=true&vCenter=true&multiline=false&width=750&lines=Building+intelligent+apps+from+Algeria+to+the+world.;AI+that+solves+real+problems+for+real+people.;Flutter+%E2%80%A2+Firebase+%E2%80%A2+Python+%E2%80%A2+Machine+Learning.;Women+in+tech+%E2%80%94+leading+by+example." alt="Typing SVG" />
+</a>
+<br/>
+<!-- BADGES -->
+<img src="https://komarev.com/ghpvc/?username=cerine-guerra&color=7c3aed&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/cerine-guerra?label=FOLLOWERS&style=flat-square&color=f5c842&labelColor=1a0a2e" alt="Followers"/>
+&nbsp;
+<img src="https://img.shields.io/badge/STATUS-BUILDING-f5c842?style=flat-square&labelColor=1a0a2e" alt="Status"/>
+&nbsp;
+<img src="https://img.shields.io/badge/BASED_IN-ALGERIA_🇩🇿-7c3aed?style=flat-square&labelColor=1a0a2e" alt="Location"/>
+</div>
+
+<!--
 💻 software Developer / AI engineer
 🎀 Building intelligent applications and exploring the intersection of AI
 📍 Algeria | Dreaming globally  
